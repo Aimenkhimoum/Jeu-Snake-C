@@ -15,8 +15,8 @@ Ce jeu a été conçu pour l'environnement **Linux** et utilise la bibliothèque
 
 1. **Prérequis :** Assurez-vous d'avoir installé la librairie `ncurses` sur votre système.
 2. **Compilation :** Dans un terminal, placez-vous dans le répertoire du projet et utilisez la commande suivante :
-   ```bash
-   make
+ ```bash
+make
 ```
 
 ## Comment Jouer
